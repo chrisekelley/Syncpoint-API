@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="node_modules/tap/node_modules/difflet/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/uglify-js/test/unit/compress/test/|node_modules/prompt/node_modules/winston/node_modules/stack-trace/lib/|node_modules/tap/node_modules/runforcover/node_modules/bunker/example/top/|node_modules/prompt/node_modules/winston/node_modules/stack-trace/test/integration/|node_modules/tap/node_modules/yamlish/|node_modules/tap/lib/|node_modules/prompt/node_modules/winston/lib/winston/config/|node_modules/tap/node_modules/slide/|node_modules/tap/node_modules/mkdirp/test/|node_modules/tap/node_modules/difflet/node_modules/traverse/testling/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/traverse/test/|node_modules/tap/example/test/|node_modules/prompt/node_modules/winston/node_modules/loggly/lib/|node_modules/prompt/node_modules/async/lib/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/traverse/examples/|node_modules/couchapp/boiler/attachments/sammy/plugins/|node_modules/prompt/node_modules/winston/test/fixtures/scripts/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/example/|node_modules/couchapp/tests/|node_modules/coux/lib/|node_modules/couchapp/|node_modules/tap/node_modules/runforcover/test/src/|node_modules/prompt/lib/|node_modules/prompt/node_modules/winston/node_modules/stack-trace/test/|lib/design/console/app/|node_modules/tap/node_modules/mkdirp/|node_modules/prompt/node_modules/winston/node_modules/loggly/lib/loggly/|plugins/|node_modules/tap/node_modules/deep-equal/example/|node_modules/prompt/test/|node_modules/prompt/node_modules/winston/examples/|node_modules/tap/example/lib/|node_modules/prompt/node_modules/winston/test/transports/|node_modules/tap/node_modules/difflet/node_modules/charm/|node_modules/prompt/node_modules/pkginfo/examples/|node_modules/tap/node_modules/difflet/test/|node_modules/tap/node_modules/difflet/node_modules/charm/lib/|node_modules/request/|node_modules/prompt/node_modules/async/|lib/design/|node_modules/tap/node_modules/runforcover/test/|node_modules/tap/node_modules/difflet/node_modules/charm/example/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/test/|node_modules/couchapp/node_modules/watch/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/uglify-js/|node_modules/tap/node_modules/nopt/node_modules/abbrev/lib/|node_modules/prompt/examples/|node_modules/tap/node_modules/difflet/node_modules/traverse/examples/|node_modules/tap/node_modules/nopt/examples/|node_modules/prompt/node_modules/winston/lib/winston/transports/|node_modules/tap/node_modules/deep-equal/test/|node_modules/tap/node_modules/nopt/bin/|node_modules/docstate/lib/|node_modules/tap/coverage-example/lib/|node_modules/tap/node_modules/difflet/node_modules/traverse/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/traverse/|node_modules/tap/node_modules/runforcover/node_modules/bunker/|node_modules/prompt/node_modules/winston/lib/|node_modules/tap/node_modules/mkdirp/examples/|node_modules/prompt/node_modules/winston/node_modules/eyes/test/|node_modules/prompt/node_modules/winston/node_modules/loggly/node_modules/timespan/test/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/|node_modules/tap/node_modules/difflet/node_modules/traverse/test/lib/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/traverse/test/lib/|node_modules/tap/test/|node_modules/tap/node_modules/runforcover/node_modules/bunker/test/src/|node_modules/prompt/node_modules/winston/node_modules/loggly/test/|node_modules/prompt/node_modules/winston/lib/winston/|node_modules/tap/node_modules/nopt/lib/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/example/web/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/test/fail/|node_modules/request/tests/|node_modules/tap/bin/|lib/|node_modules/tap/node_modules/difflet/node_modules/traverse/test/|node_modules/prompt/node_modules/winston/test/|node_modules/prompt/node_modules/winston/node_modules/loggly/node_modules/timespan/browser/|node_modules/couchapp/node_modules/watch/test/|test/|node_modules/couchapp/tests/modules/|node_modules/tap/node_modules/deep-equal/|node_modules/tap/coverage-example/test/|node_modules/couchapp/boiler/attachments/|node_modules/prompt/node_modules/winston/node_modules/loggly/node_modules/timespan/lib/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/uglify-js/tmp/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/uglify-js/test/|node_modules/tap/node_modules/runforcover/node_modules/bunker/test/|node_modules/tap/node_modules/runforcover/node_modules/bunker/example/|node_modules/docstate/node_modules/stately/lib/|node_modules/colors/|node_modules/request/vendor/cookie/|node_modules/docstate/node_modules/stately/test/|node_modules/couchapp/boiler/attachments/sammy/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/uglify-js/lib/|lib/design/console/vendor/|node_modules/prompt/node_modules/pkginfo/lib/|node_modules/couchapp/boiler/|node_modules/errlog/lib/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/uglify-js/test/unit/compress/expected/|node_modules/tap/node_modules/slide/lib/|node_modules/tap/test-disabled/|node_modules/prompt/node_modules/pkginfo/test/|node_modules/tap/node_modules/difflet/example/|node_modules/tap/node_modules/inherits/|node_modules/prompt/node_modules/winston/node_modules/eyes/lib/|node_modules/tap/node_modules/runforcover/|node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/uglify-js/test/unit/" kind="src" path=""/>
+	<classpathentry excluding="design/console/app/|design/|design/console/vendor/" kind="src" path="lib"/>
+	<classpathentry excluding="console/app/|console/vendor/" kind="src" path="lib/design"/>
+	<classpathentry kind="src" path="lib/design/console/app"/>
+	<classpathentry kind="src" path="lib/design/console/vendor"/>
+	<classpathentry kind="src" path="node_modules/colors"/>
+	<classpathentry excluding="boiler/attachments/sammy/plugins/|tests/|node_modules/watch/|node_modules/watch/test/|tests/modules/|boiler/attachments/|boiler/attachments/sammy/|boiler/" kind="src" path="node_modules/couchapp"/>
+	<classpathentry excluding="attachments/sammy/plugins/|attachments/|attachments/sammy/" kind="src" path="node_modules/couchapp/boiler"/>
+	<classpathentry excluding="sammy/plugins/|sammy/" kind="src" path="node_modules/couchapp/boiler/attachments"/>
+	<classpathentry excluding="plugins/" kind="src" path="node_modules/couchapp/boiler/attachments/sammy"/>
+	<classpathentry kind="src" path="node_modules/couchapp/boiler/attachments/sammy/plugins"/>
+	<classpathentry excluding="test/" kind="src" path="node_modules/couchapp/node_modules/watch"/>
+	<classpathentry kind="src" path="node_modules/couchapp/node_modules/watch/test"/>
+	<classpathentry excluding="modules/" kind="src" path="node_modules/couchapp/tests"/>
+	<classpathentry kind="src" path="node_modules/couchapp/tests/modules"/>
+	<classpathentry kind="src" path="node_modules/coux/lib"/>
+	<classpathentry kind="src" path="node_modules/docstate/lib"/>
+	<classpathentry kind="src" path="node_modules/docstate/node_modules/stately/lib"/>
+	<classpathentry kind="src" path="node_modules/docstate/node_modules/stately/test"/>
+	<classpathentry kind="src" path="node_modules/errlog/lib"/>
+	<classpathentry kind="src" path="node_modules/prompt/examples"/>
+	<classpathentry kind="src" path="node_modules/prompt/lib"/>
+	<classpathentry excluding="lib/" kind="src" path="node_modules/prompt/node_modules/async"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/async/lib"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/pkginfo/examples"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/pkginfo/lib"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/pkginfo/test"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/winston/examples"/>
+	<classpathentry excluding="winston/config/|winston/transports/|winston/" kind="src" path="node_modules/prompt/node_modules/winston/lib"/>
+	<classpathentry excluding="config/|transports/" kind="src" path="node_modules/prompt/node_modules/winston/lib/winston"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/winston/lib/winston/config"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/winston/lib/winston/transports"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/winston/node_modules/eyes/lib"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/winston/node_modules/eyes/test"/>
+	<classpathentry excluding="loggly/" kind="src" path="node_modules/prompt/node_modules/winston/node_modules/loggly/lib"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/winston/node_modules/loggly/lib/loggly"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/winston/node_modules/loggly/node_modules/timespan/browser"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/winston/node_modules/loggly/node_modules/timespan/lib"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/winston/node_modules/loggly/node_modules/timespan/test"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/winston/node_modules/loggly/test"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/winston/node_modules/stack-trace/lib"/>
+	<classpathentry excluding="integration/" kind="src" path="node_modules/prompt/node_modules/winston/node_modules/stack-trace/test"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/winston/node_modules/stack-trace/test/integration"/>
+	<classpathentry excluding="fixtures/scripts/|transports/" kind="src" path="node_modules/prompt/node_modules/winston/test"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/winston/test/fixtures/scripts"/>
+	<classpathentry kind="src" path="node_modules/prompt/node_modules/winston/test/transports"/>
+	<classpathentry kind="src" path="node_modules/prompt/test"/>
+	<classpathentry excluding="tests/|vendor/cookie/" kind="src" path="node_modules/request"/>
+	<classpathentry kind="src" path="node_modules/request/tests"/>
+	<classpathentry kind="src" path="node_modules/request/vendor/cookie"/>
+	<classpathentry kind="src" path="node_modules/tap/bin"/>
+	<classpathentry kind="src" path="node_modules/tap/coverage-example/lib"/>
+	<classpathentry kind="src" path="node_modules/tap/coverage-example/test"/>
+	<classpathentry kind="src" path="node_modules/tap/example/lib"/>
+	<classpathentry kind="src" path="node_modules/tap/example/test"/>
+	<classpathentry kind="src" path="node_modules/tap/lib"/>
+	<classpathentry excluding="example/|test/" kind="src" path="node_modules/tap/node_modules/deep-equal"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/deep-equal/example"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/deep-equal/test"/>
+	<classpathentry excluding="node_modules/traverse/testling/|node_modules/charm/|test/|node_modules/charm/lib/|node_modules/charm/example/|node_modules/traverse/examples/|node_modules/traverse/|node_modules/traverse/test/lib/|node_modules/traverse/test/|example/" kind="src" path="node_modules/tap/node_modules/difflet"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/difflet/example"/>
+	<classpathentry excluding="lib/|example/" kind="src" path="node_modules/tap/node_modules/difflet/node_modules/charm"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/difflet/node_modules/charm/example"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/difflet/node_modules/charm/lib"/>
+	<classpathentry excluding="testling/|examples/|test/lib/|test/" kind="src" path="node_modules/tap/node_modules/difflet/node_modules/traverse"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/difflet/node_modules/traverse/examples"/>
+	<classpathentry excluding="lib/" kind="src" path="node_modules/tap/node_modules/difflet/node_modules/traverse/test"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/difflet/node_modules/traverse/test/lib"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/difflet/node_modules/traverse/testling"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/difflet/test"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/inherits"/>
+	<classpathentry excluding="test/|examples/" kind="src" path="node_modules/tap/node_modules/mkdirp"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/mkdirp/examples"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/mkdirp/test"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/nopt/bin"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/nopt/examples"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/nopt/lib"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/nopt/node_modules/abbrev/lib"/>
+	<classpathentry excluding="node_modules/bunker/node_modules/burrito/node_modules/uglify-js/test/unit/compress/test/|node_modules/bunker/example/top/|node_modules/bunker/node_modules/burrito/node_modules/traverse/test/|node_modules/bunker/node_modules/burrito/node_modules/traverse/examples/|node_modules/bunker/node_modules/burrito/example/|test/src/|test/|node_modules/bunker/node_modules/burrito/test/|node_modules/bunker/node_modules/burrito/node_modules/uglify-js/|node_modules/bunker/node_modules/burrito/node_modules/traverse/|node_modules/bunker/|node_modules/bunker/node_modules/burrito/|node_modules/bunker/node_modules/burrito/node_modules/traverse/test/lib/|node_modules/bunker/test/src/|node_modules/bunker/node_modules/burrito/example/web/|node_modules/bunker/node_modules/burrito/test/fail/|node_modules/bunker/node_modules/burrito/node_modules/uglify-js/tmp/|node_modules/bunker/node_modules/burrito/node_modules/uglify-js/test/|node_modules/bunker/test/|node_modules/bunker/example/|node_modules/bunker/node_modules/burrito/node_modules/uglify-js/lib/|node_modules/bunker/node_modules/burrito/node_modules/uglify-js/test/unit/compress/expected/|node_modules/bunker/node_modules/burrito/node_modules/uglify-js/test/unit/" kind="src" path="node_modules/tap/node_modules/runforcover"/>
+	<classpathentry excluding="node_modules/burrito/node_modules/uglify-js/test/unit/compress/test/|example/top/|node_modules/burrito/node_modules/traverse/test/|node_modules/burrito/node_modules/traverse/examples/|node_modules/burrito/example/|node_modules/burrito/test/|node_modules/burrito/node_modules/uglify-js/|node_modules/burrito/node_modules/traverse/|node_modules/burrito/|node_modules/burrito/node_modules/traverse/test/lib/|test/src/|node_modules/burrito/example/web/|node_modules/burrito/test/fail/|node_modules/burrito/node_modules/uglify-js/tmp/|node_modules/burrito/node_modules/uglify-js/test/|test/|example/|node_modules/burrito/node_modules/uglify-js/lib/|node_modules/burrito/node_modules/uglify-js/test/unit/compress/expected/|node_modules/burrito/node_modules/uglify-js/test/unit/" kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker"/>
+	<classpathentry excluding="top/" kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/example"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/example/top"/>
+	<classpathentry excluding="node_modules/uglify-js/test/unit/compress/test/|node_modules/traverse/test/|node_modules/traverse/examples/|example/|test/|node_modules/uglify-js/|node_modules/traverse/|node_modules/traverse/test/lib/|example/web/|test/fail/|node_modules/uglify-js/tmp/|node_modules/uglify-js/test/|node_modules/uglify-js/lib/|node_modules/uglify-js/test/unit/compress/expected/|node_modules/uglify-js/test/unit/" kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito"/>
+	<classpathentry excluding="web/" kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/example"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/example/web"/>
+	<classpathentry excluding="test/|examples/|test/lib/" kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/traverse"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/traverse/examples"/>
+	<classpathentry excluding="lib/" kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/traverse/test"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/traverse/test/lib"/>
+	<classpathentry excluding="test/unit/compress/test/|tmp/|test/|lib/|test/unit/compress/expected/|test/unit/" kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/uglify-js"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/uglify-js/lib"/>
+	<classpathentry excluding="unit/compress/test/|unit/compress/expected/|unit/" kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/uglify-js/test"/>
+	<classpathentry excluding="compress/test/|compress/expected/" kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/uglify-js/test/unit"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/uglify-js/test/unit/compress/expected"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/uglify-js/test/unit/compress/test"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/node_modules/uglify-js/tmp"/>
+	<classpathentry excluding="fail/" kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/test"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/node_modules/burrito/test/fail"/>
+	<classpathentry excluding="src/" kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/test"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/runforcover/node_modules/bunker/test/src"/>
+	<classpathentry excluding="src/" kind="src" path="node_modules/tap/node_modules/runforcover/test"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/runforcover/test/src"/>
+	<classpathentry excluding="lib/" kind="src" path="node_modules/tap/node_modules/slide"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/slide/lib"/>
+	<classpathentry kind="src" path="node_modules/tap/node_modules/yamlish"/>
+	<classpathentry kind="src" path="node_modules/tap/test"/>
+	<classpathentry kind="src" path="node_modules/tap/test-disabled"/>
+	<classpathentry kind="src" path="plugins"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

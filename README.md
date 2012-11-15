@@ -4,6 +4,10 @@ Sync realtime multi-user applications with Apache CouchDB in the cloud and Touch
 
 Mobile Syncpoint is an API suite for synchronizing multi-user interactive applications using Apache CouchDB in the cloud and TouchDB on mobile devices.
 
+## Why this fork?
+
+This fork is has some fixes to make it work with nodejitsu and other hosts. Specifically, s/"errLog"/errlog and a  config.json file. To make it work w/ nodejitsu, I added a simple helloworld server listener.
+
 ## Why Sync?
 
 Realtime is the future of the web. Users have multiple devices, and they want to share on their own terms.Syncpoint gives you the flexibility to build your application on top of CouchDB's trusted multi-user replication model.
