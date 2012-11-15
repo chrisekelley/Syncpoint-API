@@ -1,7 +1,7 @@
 {
   "name": "syncpoint",
   "description": "Sync multi-user applications with Apache CouchDB and TouchDB on mobile devices.",
-  "version": "0.3.0-13",
+  "version": "0.3.0-14",
   "homepage": "https://github.com/couchbaselabs/Syncpoint-API",
   "author": {
     "name": "Chris Anderson",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/couchbaselabs/Syncpoint-API.git"
+    "url": "git://github.com/chrisekelley/Syncpoint-API.git"
   },
   "bugs": {
-    "url": "https://github.com/couchbaselabs/Syncpoint-API/issues"
+    "url": "https://github.com/chrisekelley/Syncpoint-API/issues"
   },
   "licenses": [
     {
