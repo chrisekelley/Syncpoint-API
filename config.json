@@ -1,0 +1,5 @@
+{
+  "admin_db": "sp_admin",
+  "host": "http://andromeda.iriscouch.com/",
+  "users_db": "_users"
+}
